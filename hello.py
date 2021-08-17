@@ -1,7 +1,7 @@
 def function():
     print("Hello, People")
 
-    num1 = int(input("Add a numberator: "))
+    num1 = int(input("Add a numerator: "))
     num2 = int(input("Add a second number: "))
     print(num1/num2)
 
